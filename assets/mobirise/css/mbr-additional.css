@@ -1433,7 +1433,7 @@ section.lazy-placeholder:after {
   text-align: left;
 }
 .cid-rVNiEf8YLO .mbr-text {
-  color: #767676;
+  color: #232323;
   text-align: center;
 }
 .cid-rVNiEf8YLO .card-wrapper {
@@ -1546,5 +1546,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rVNb3OfNiS P {
+  color: #ffffff;
+}
+.cid-rVNb3OfNiS H4 {
   color: #ffffff;
 }
