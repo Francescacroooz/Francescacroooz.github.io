@@ -723,61 +723,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rVN2Q2XsG3 {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-color: #232323;
+  background-image: url("../../../assets/images/yeard-1267x710.jpg");
 }
 .cid-rVN2Q2XsG3 H3 {
-  color: #ffffff;
-}
-.cid-rlUs8FxXlw {
-  padding-top: 15px;
-  padding-bottom: 15px;
-  background-color: #232323;
-}
-.cid-rlUs8FxXlw h4 {
-  font-weight: 500;
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 2rem;
-}
-.cid-rlUs8FxXlw p {
-  margin-bottom: 0;
-  text-align: left;
-  padding-top: 1.5rem;
-}
-.cid-rlUs8FxXlw .mbr-section-btn {
-  padding-top: 2.5rem;
-}
-.cid-rlUs8FxXlw .mbr-section-btn a {
-  margin: 0;
-}
-.cid-rlUs8FxXlw .mbr-text {
-  color: #767676;
-}
-.cid-rlUs8FxXlw .card-wrapper {
-  height: 100%;
-  background: #232323;
-}
-@media (max-width: 767px) {
-  .cid-rlUs8FxXlw .card:not(.last-child) {
-    padding-bottom: 2rem;
-  }
-}
-.cid-rlUs8FxXlw H2 {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-rlUs8FxXlw .mbr-section-subtitle {
-  text-align: center;
-}
-.cid-rlUs8FxXlw .mbr-text,
-.cid-rlUs8FxXlw .mbr-section-btn {
-  text-align: center;
-  color: #ffffff;
-}
-.cid-rlUs8FxXlw .card-title {
-  text-align: center;
   color: #ffffff;
 }
 .cid-rVNiEf8YLO {
@@ -1593,5 +1541,58 @@ section.lazy-placeholder:after {
   color: #ffffff;
 }
 .cid-rVNb3OfNiS H4 {
+  color: #ffffff;
+}
+.cid-rlUs8FxXlw {
+  padding-top: 15px;
+  padding-bottom: 15px;
+  background-image: url("../../../assets/images/yeard-1267x710.jpg");
+}
+.cid-rlUs8FxXlw .card-box {
+  padding: 1rem 2rem 2rem;
+}
+.cid-rlUs8FxXlw h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 2rem;
+}
+.cid-rlUs8FxXlw p {
+  margin-bottom: 0;
+  text-align: left;
+  padding-top: 1.5rem;
+}
+.cid-rlUs8FxXlw .mbr-section-btn {
+  padding-top: 2.5rem;
+}
+.cid-rlUs8FxXlw .mbr-section-btn a {
+  margin: 0;
+}
+.cid-rlUs8FxXlw .mbr-text {
+  color: #767676;
+}
+.cid-rlUs8FxXlw .card-wrapper {
+  height: 100%;
+  background: #232323;
+}
+@media (max-width: 767px) {
+  .cid-rlUs8FxXlw .card:not(.last-child) {
+    padding-bottom: 2rem;
+  }
+}
+.cid-rlUs8FxXlw H2 {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-rlUs8FxXlw .mbr-section-subtitle {
+  text-align: center;
+}
+.cid-rlUs8FxXlw .mbr-text,
+.cid-rlUs8FxXlw .mbr-section-btn {
+  text-align: center;
+  color: #ffffff;
+}
+.cid-rlUs8FxXlw .card-title {
+  text-align: center;
   color: #ffffff;
 }
