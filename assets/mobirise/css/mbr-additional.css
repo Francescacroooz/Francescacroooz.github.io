@@ -1029,6 +1029,198 @@ section.lazy-placeholder:after {
 .cid-rVNRw472zj .card-title {
   color: #ffffff;
 }
+.cid-rVSN5zMIJR {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-rVSN5zMIJR h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rVSN5zMIJR p {
+  color: #767676;
+  margin: 0;
+}
+.cid-rVSN5zMIJR .card-box {
+  background-color: #ffffff;
+  background-color: transparent;
+}
+.cid-rVSN5zMIJR .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rVSN5zMIJR .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rVSN5zMIJR .wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.cid-rVSN5zMIJR .border_wrapper {
+  border-left: 1px solid #232323;
+  padding-left: 2rem;
+}
+@media (max-width: 991px) {
+  .cid-rVSN5zMIJR .border_wrapper {
+    border-left: none;
+    padding-left: 0;
+  }
+  .cid-rVSN5zMIJR .mbr-section-btn a {
+    padding: 1rem 2rem;
+  }
+  .cid-rVSN5zMIJR .mbr-figure {
+    padding-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rVSN5zMIJR .wrapper {
+    align-items: center;
+    text-align: center;
+  }
+  .cid-rVSN5zMIJR .col-left h4 {
+    padding-top: 1rem;
+  }
+  .cid-rVSN5zMIJR p.col-right {
+    padding-top: 1rem;
+  }
+}
+.cid-rVSN5zMIJR .card-title {
+  color: #ffffff;
+}
+.cid-rVSN5zMIJR P {
+  color: #ffffff;
+}
+.cid-rVSN5Nntho {
+  padding-top: 0px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-rVSN5Nntho h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rVSN5Nntho p {
+  color: #767676;
+  margin: 0;
+}
+.cid-rVSN5Nntho .card-box {
+  background-color: #ffffff;
+  background-color: transparent;
+}
+.cid-rVSN5Nntho .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rVSN5Nntho .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rVSN5Nntho .wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.cid-rVSN5Nntho .border_wrapper {
+  border-left: 1px solid #232323;
+  padding-left: 2rem;
+}
+@media (max-width: 991px) {
+  .cid-rVSN5Nntho .border_wrapper {
+    border-left: none;
+    padding-left: 0;
+  }
+  .cid-rVSN5Nntho .mbr-section-btn a {
+    padding: 1rem 2rem;
+  }
+  .cid-rVSN5Nntho .mbr-figure {
+    padding-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rVSN5Nntho .wrapper {
+    align-items: center;
+    text-align: center;
+  }
+  .cid-rVSN5Nntho .col-left h4 {
+    padding-top: 1rem;
+  }
+  .cid-rVSN5Nntho p.col-right {
+    padding-top: 1rem;
+  }
+}
+.cid-rVSN5Nntho .card-title {
+  color: #ffffff;
+}
+.cid-rVSN6jdTWD {
+  padding-top: 15px;
+  padding-bottom: 30px;
+  background-color: #232323;
+}
+.cid-rVSN6jdTWD h4 {
+  font-weight: 500;
+  margin-bottom: 0;
+  text-align: left;
+}
+.cid-rVSN6jdTWD p {
+  color: #767676;
+  margin: 0;
+}
+.cid-rVSN6jdTWD .card-box {
+  background-color: #ffffff;
+  background-color: transparent;
+}
+.cid-rVSN6jdTWD .mbr-section-btn {
+  padding-top: 1rem;
+}
+.cid-rVSN6jdTWD .card-wrapper {
+  position: relative;
+  box-shadow: 0px 0px 0px 0px rgba(0, 0, 0, 0);
+  transition: box-shadow 0.3s;
+}
+.cid-rVSN6jdTWD .wrapper {
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+}
+.cid-rVSN6jdTWD .border_wrapper {
+  border-left: 1px solid #232323;
+  padding-left: 2rem;
+}
+@media (max-width: 991px) {
+  .cid-rVSN6jdTWD .border_wrapper {
+    border-left: none;
+    padding-left: 0;
+  }
+  .cid-rVSN6jdTWD .mbr-section-btn a {
+    padding: 1rem 2rem;
+  }
+  .cid-rVSN6jdTWD .mbr-figure {
+    padding-bottom: 2rem;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rVSN6jdTWD .wrapper {
+    align-items: center;
+    text-align: center;
+  }
+  .cid-rVSN6jdTWD .col-left h4 {
+    padding-top: 1rem;
+  }
+  .cid-rVSN6jdTWD p.col-right {
+    padding-top: 1rem;
+  }
+}
+.cid-rVSN6jdTWD .card-title {
+  color: #ffffff;
+}
 .cid-qTkzRZLJNu .navbar {
   padding: .5rem 0;
   background: #232323;
