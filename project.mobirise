@@ -718,6 +718,9 @@
             },
             ".card-title": {
               "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_name": "services4",
@@ -807,6 +810,9 @@
               }
             },
             ".card-title": {
+              "color": "#ffffff"
+            },
+            "P": {
               "color": "#ffffff"
             }
           },
