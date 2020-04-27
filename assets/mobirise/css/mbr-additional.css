@@ -710,18 +710,6 @@ iframe.lazy-placeholder,
 section.lazy-placeholder:after {
   opacity: 0.3;
 }
-.cid-rVNBCwAzqw {
-  background: #ffffff;
-}
-.cid-rVNBCwAzqw .video-block {
-  margin: auto;
-  width: 100% !important;
-}
-@media (max-width: 768px) {
-  .cid-rVNBCwAzqw .video-block {
-    width: 100% !important;
-  }
-}
 .cid-rVN2Q2XsG3 {
   background-image: url("../../../assets/images/yeard-1267x710.jpg");
 }
