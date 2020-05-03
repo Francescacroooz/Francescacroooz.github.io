@@ -830,7 +830,7 @@ section.lazy-placeholder:after {
 }
 .cid-rXXl7MyUBY {
   padding-top: 15px;
-  padding-bottom: 45px;
+  padding-bottom: 0px;
   background-color: #232323;
 }
 .cid-rXXl7MyUBY h4 {
@@ -891,8 +891,11 @@ section.lazy-placeholder:after {
 .cid-rXXl7MyUBY .card-title {
   color: #ffffff;
 }
+.cid-rXXl7MyUBY P {
+  color: #ffffff;
+}
 .cid-rVpIhr1YuR {
-  padding-top: 90px;
+  padding-top: 15px;
   padding-bottom: 15px;
   background-color: #232323;
 }
@@ -1018,6 +1021,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rXXk4j3cZN .card-title {
+  color: #ffffff;
+}
+.cid-rXXk4j3cZN P {
   color: #ffffff;
 }
 .cid-rVN8jGM0RK {
@@ -1413,6 +1419,9 @@ section.lazy-placeholder:after {
 .cid-rXzAPbjwgu .card-title {
   color: #ffffff;
 }
+.cid-rXzAPbjwgu P {
+  color: #ffffff;
+}
 .cid-rXXm7IAfPK {
   padding-top: 15px;
   padding-bottom: 45px;
@@ -1474,6 +1483,9 @@ section.lazy-placeholder:after {
   }
 }
 .cid-rXXm7IAfPK .card-title {
+  color: #ffffff;
+}
+.cid-rXXm7IAfPK P {
   color: #ffffff;
 }
 .cid-qTkzRZLJNu .navbar {
